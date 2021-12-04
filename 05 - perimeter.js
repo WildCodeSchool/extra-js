@@ -2,8 +2,6 @@
 
 //2 * 3.14 * radius
 
-const perimeter = () => {
-    
-}
+function perimeter() {}
 
-console.log(perimeter(2))
+console.log(perimeter(2));

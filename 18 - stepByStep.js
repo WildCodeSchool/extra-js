@@ -2,9 +2,6 @@
 // i.e: stepByStep(5)
 // "012345"
 
-const stepByStep = () => {
+function stepByStep() {}
 
-}
-
-
-console.log(stepByStep(5))
+console.log(stepByStep(5));

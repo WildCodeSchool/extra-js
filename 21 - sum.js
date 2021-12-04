@@ -3,8 +3,6 @@
 // 6
 // which is 0 + 1 + 2 + 3
 
-const sum = () => {
-
-}
+function sum() {}
 
 console.log(sum(4));

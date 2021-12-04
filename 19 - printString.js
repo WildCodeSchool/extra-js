@@ -3,6 +3,6 @@
 // i.e: printString(3, 'blue')
 // 'blueblueblue'
 
-const printString = () => {};
+function printString() {}
 
 console.log(printString(3, "blue"));

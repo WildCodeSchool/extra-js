@@ -3,9 +3,6 @@
 // it is a multiple of 2 or 3
 // it is not 15
 
-const luckyNumber = () => {
- 
-};
+function luckyNumber() {}
 
 console.log(luckyNumber(15));
-

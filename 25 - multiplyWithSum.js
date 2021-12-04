@@ -1,8 +1,6 @@
-// create a function multiplyWithSum that will multiply between 2 numbers using only the addition operation. 
+// create a function multiplyWithSum that will multiply between 2 numbers using only the addition operation.
 
-const multiplyWithSum = () => {
- 
-};
+function multiplyWithSum() {}
 console.log(multiplyWithSum(2, 10));
 
 // 3 * 3

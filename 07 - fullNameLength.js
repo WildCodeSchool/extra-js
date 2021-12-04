@@ -3,8 +3,6 @@
 //   counting with the extra space that separates
 //   both names
 
-const fullNameLength = () => {
-  
-};
+function fullNameLength() {}
 
 console.log(fullNameLength("bob", "smith"));

@@ -3,7 +3,6 @@
 // be at least 1.5 m, or 1.2 if accompanied
 // have no heart condition
 
-const canIRide = () => {
- };
+function canIRide() {}
 
 console.log(canIRide(1.5, true, true));

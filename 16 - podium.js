@@ -4,8 +4,6 @@
 // third place: 'bronze'
 // other places: 'keep trying!
 
-const podium = () => {
-   
-}
+function podium() {}
 
-console.log(podium(3))
+console.log(podium(3));

@@ -3,8 +3,6 @@
 // 1.75
 // which is: 0.25+0.25+0.25+0.25+0.25+0.25+0.25
 
-const add25Cents = () => {
+function add25Cents() {}
 
-}
-
-console.log(add25Cents(7))
+console.log(add25Cents(7));
